@@ -1,0 +1,36 @@
+.bi-sort-alpha-down {
+    width: 27px;
+    height: 27px;
+}
+#sort_down{
+    margin: 4px;
+    width: 35px;
+    height: 35px;
+    background-color:yellowgreen;
+    color: black;
+    border: none;
+}
+#sort_up{
+    margin: 4px;
+    width: 35px;
+    height: 35px;
+    background-color: yellowgreen;
+    color: black;
+    border: none;
+}
+#sort_down1{
+    margin: 4px;
+    width: 35px;
+    height: 35px;
+    background-color:yellowgreen;
+    color: black;
+    border: none;
+}
+#sort_up1{
+    margin: 4px;
+    width: 35px;
+    height: 35px;
+    background-color: yellowgreen;
+    color: black;
+    border: none;
+}
